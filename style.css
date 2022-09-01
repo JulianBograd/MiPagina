@@ -1,0 +1,14 @@
+body {
+    background-color: #1f2124;
+}
+
+.header-name__name {
+    color: white;
+}
+.header-name__position {
+    color: #393d42;
+}
+
+.contact-form__input {
+    color:grey;
+}
